@@ -11,6 +11,10 @@ This project investigates whether **physics-driven representations** can capture
 
 ---
 
+<img width="1783" height="883" alt="download" src="https://github.com/user-attachments/assets/05548c35-d837-4b5d-9f3d-20e12cff72b3" />
+<img width="1480" height="989" alt="download (1)" src="https://github.com/user-attachments/assets/0b5ff1da-1444-4c9f-93f0-e2100b150d74" />
+
+
 # Overview
 
 Traditional computer vision pipelines rely on deep neural networks to learn features directly from pixel data.
