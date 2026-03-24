@@ -2,6 +2,12 @@
 
 **Fluid Dynamics based image representation**
 
+# Why i did this?
+
+Most images are encoded as pixel data, this project explores a novel way to represent images using Fluid Dynamics 
+Simplest analogy to understand this is how a water flows if you pour it on the image
+
+
 This project explores a new way to represent images by simulating **fluid flow over pixel structures**.
 Instead of directly feeding pixels into neural networks, images are converted into **fluid disturbance patterns** using a Navier–Stokes simulation.
 
@@ -143,12 +149,6 @@ Visual outputs include:
 ---
 
 
-# Research Motivation
-
-Most images are encoded as pixel data, this project explores a novel way to represent images using Fluid Dynamics 
-Simplest analogy to understand this is how a water flows if you pour it on the image
-
----
 
 
 
