@@ -11,6 +11,8 @@ Simplest analogy to understand this is how a water flows if you pour it on the i
 This project explores a new way to represent images by simulating **fluid flow over pixel structures**.
 Instead of directly feeding pixels into neural networks, images are converted into **fluid disturbance patterns** using a Navier–Stokes simulation.
 
+Im thinking of exploring this idea more.
+
 The resulting **vorticity fingerprints** are then used as features for classification.
 
 This project investigates whether **physics-driven representations** can capture meaningful shape information.
