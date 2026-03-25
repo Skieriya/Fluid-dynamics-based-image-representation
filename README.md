@@ -1,6 +1,6 @@
 
 
-**Fluid Dynamics based image representation**
+# Fluid Dynamics based image representation
 
 # Why i did this?
 
